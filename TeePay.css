@@ -1,0 +1,162 @@
+body {
+    height:100%;
+    width: 100%;
+    background-color: #d5fff4;
+}
+
+header {
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 0px 0px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.Fst {
+    background-color: #4b46a87f;
+    text-align: center;
+    padding: 20px 18px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.snd {
+border: 2px #000130;
+    text-align: center;
+    background-color: #eaeaff;
+    border-radius: 10px;
+    padding: 20px 18px;
+    color: #ffffff;
+    font-family: Camari;
+    text-decoration-color: #141a1aee;
+}
+
+.Bd {
+    background-color: #5885d2ae;
+    text-align: center;
+    padding: 20px 18px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.Sd {
+    background-color: #bfffff;
+    text-align: center;
+    padding: 20px 18px;
+    border-radius: 15px;
+    box-shadow: 4px 4px;
+    align-items: center;
+}
+
+#ph {
+    border: 2px solid black;
+    padding: 12px 15px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;
+    
+}
+
+#eml {
+    border: 2px solid black;
+    padding: 12px 15px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;
+}
+
+#Cgen {
+    border: 2px solid black;
+    padding: 5px 5px;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 15px;
+}
+
+#Dob {
+    border: 2px solid black;
+    padding: 12px 15px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;
+}
+
+#psd {
+  border: 2px solid black;
+    padding: 10px 13px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;  
+}
+
+#cpsd {
+  border: 2px solid black;
+    padding: 10px 13px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;  
+}
+
+#pn {
+    border: 2px solid black;
+    padding: 12px 15px;
+    box-shadow: 3px 4px 4px;
+    border-radius: 15px;
+    
+}
+
+#SUP {
+    font-size: 18px;
+    font-stretch: 5px 10px;
+    padding: 10px 18px;
+    border-radius: 15px;
+    box-shadow: 3px 4px 4px;
+    background: url('');
+    background-color: #006cff;
+    cursor: pointer;
+}
+
+label {
+    text-shadow: 2px 0px;
+   color: #000000;
+   font-size: 15px;
+   text-align: center;
+}
+
+padding {
+    color: #000000c9;
+}
+
+.pdc {
+    position: relative;
+}
+
+.topd {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.topd img {
+    width: 20px;
+    height: auto;
+}
+
+.pin-container {
+    position: relative;
+}
+
+.pin-container input[type="tel"] {
+    padding-right: 30px;
+}
+
+.topn {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.topn img {
+    width: 20px;
+    height: auto;
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+    min-width: 75%;
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+}
+
+.headiv {
+    border: 2px solid black;
+    background-color: aqua;
+    justify-content: center;
+    padding: auto;
+    text-align: center;
+    border-radius: 12px 12px;
+
+}
+
+.bdiv {
+    border: 2px solid black;
+    border-radius: 12px 12px;
+    padding: auto;
+}
+
+footer {text-align: center;
+padding: auto;
+background-color: rgb(96, 173, 193);
+color: white;
+}
